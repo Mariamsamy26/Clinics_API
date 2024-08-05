@@ -1,0 +1,11 @@
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Release\net8.0\win-x86\PubTmp\Out\ClinicsAPI.exe
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Release\net8.0\win-x86\PubTmp\Out\appsettings.Development.json
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Release\net8.0\win-x86\PubTmp\Out\appsettings.json
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Release\net8.0\win-x86\PubTmp\Out\ClinicsAPI.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Release\net8.0\win-x86\PubTmp\Out\ClinicsAPI.deps.json
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Release\net8.0\win-x86\PubTmp\Out\ClinicsAPI.runtimeconfig.json
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Release\net8.0\win-x86\PubTmp\Out\ClinicsAPI.pdb
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.OpenApi.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

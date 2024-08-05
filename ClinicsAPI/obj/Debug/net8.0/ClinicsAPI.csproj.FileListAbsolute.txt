@@ -1,0 +1,64 @@
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\appsettings.json
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\ClinicsAPI.exe
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\ClinicsAPI.deps.json
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\ClinicsAPI.runtimeconfig.json
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\ClinicsAPI.dll
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\ClinicsAPI.pdb
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.csproj.AssemblyReference.cache
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.AssemblyInfoInputs.cache
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.AssemblyInfo.cs
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.csproj.CoreCompileInputs.cache
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets\msbuild.ClinicsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ClinicsAPI.props
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClinicsAPI.props
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClinicsAPI.props
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\scopedcss\bundle\ClinicsAPI.styles.css
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.csproj.CopyComplete
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.dll
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\refint\ClinicsAPI.dll
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.pdb
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.genruntimeconfig.cache
+D:\Mariam\Red Spotss Gradution Project\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ref\ClinicsAPI.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\appsettings.json
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\ClinicsAPI.exe
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\ClinicsAPI.deps.json
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\ClinicsAPI.runtimeconfig.json
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\ClinicsAPI.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\ClinicsAPI.pdb
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.csproj.AssemblyReference.cache
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.AssemblyInfoInputs.cache
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.AssemblyInfo.cs
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.csproj.CoreCompileInputs.cache
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets\msbuild.ClinicsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ClinicsAPI.props
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClinicsAPI.props
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClinicsAPI.props
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\scopedcss\bundle\ClinicsAPI.styles.css
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.csproj.Up2Date
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\refint\ClinicsAPI.dll
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.pdb
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ClinicsAPI.genruntimeconfig.cache
+D:\flutter work\final progict\ClinicsAPI\ClinicsAPI\obj\Debug\net8.0\ref\ClinicsAPI.dll
