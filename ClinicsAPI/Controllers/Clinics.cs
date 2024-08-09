@@ -190,6 +190,88 @@ namespace ClinicsAPI.Controllers
                 Rate = 4.3,
                 AddressClinic = "معادي السرايات الغربية، قسم طرة، محافظة القاهرة"
             }
+            new Place
+{
+    Name = "Hers Clinic",
+    Longitude = 31.3028027,
+    Latitude = 30.0141436,
+    Phone = "01155550447",
+    Rate = 5.0,
+    AddressClinic = "499 Street 9, شارع المقطم، محافظة القاهرة"
+},
+            new Place
+{
+    Name = "Dr.Maikandil",
+    Longitude = 31.3336858,
+    Latitude = 29.9745149,
+    Phone = "01008185200",
+    Rate = 5.0,
+    AddressClinic = "البساتين الشرقية، قسم البساتين، محافظة القاهرة"
+},
+            new Place
+{
+    Name = "Dr. Amr Mostafa Clinic",
+    Longitude = 30.0383907,
+    Latitude = 31.2109472,
+    Phone = "01008750875",
+    Rate = 3.7,
+    AddressClinic = "98 التحرير، الدقي، قسم الدقي، محافظة الجيزة"
+},
+            new Place
+{
+    Name = "My Derma Skin Clinic",
+    Longitude = 31.4521138,
+    Latitude = 30.0192858,
+    Phone = "01228123577",
+    Rate = 3.7,
+    AddressClinic = "ميديكال بارك بريمير, ش التسعين الشمالي، محافظة القاهرة"
+},
+            new Place
+{
+    Name = "Arab Organization for Industrialization Hospital",
+    Longitude = 31.286,
+    Latitude = 29.9840499,
+    Phone = "01227020200",
+    Rate = 3.2,
+    AddressClinic = "ش العروبة، البساتين الشرقية، قسم المعادي، محافظة القاهرة"
+},
+            new Place
+{
+    Name = "Derma Life Clinic",
+    Longitude = 31.2969775,
+    Latitude = 29.9762222,
+    Phone = "01122442259",
+    Rate = 4.7,
+    AddressClinic = "٦٥ شارع ٢٦٣ من شارع, طريق النصر، قسم المعادي، محافظة القاهرة"
+},
+            new Place
+{
+    Name = "Skin Pionneers",
+    Longitude = 31.2950825,
+    Latitude = 29.9771936,
+    Phone = "01000911922",
+    Rate = 4.1,
+    AddressClinic = "زبة فهمي، قسم البساتين، محافظة القاهرة"
+},
+            new Place
+{
+    Name = "Skin Lounge Dermatology & Laser Center",
+    Longitude = 31.2950825,
+    Latitude = 29.9771936,
+    Phone = "01024748463",
+    Rate = 5.0,
+    AddressClinic = "275 مكرر، عزبة فهمي، قسم البساتين، محافظة القاهرة"
+},
+            new Place
+{
+    Name = "Skin House Clinic",
+    Longitude = 31.2939997,
+    Latitude = 29.9770261,
+    Phone = "01237691976",
+    Rate = 4.0,
+    AddressClinic = "47 Intersection Of rd، 79، معادي السرايات الغربية، قسم المعادي"
+}
+
         };
 
         [HttpGet("ClinicsAPI")]
